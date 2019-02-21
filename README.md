@@ -1,4 +1,6 @@
-Pasos a seguir para hacer los Tableros del Plan de Sesión
+PRIMERO SEGUIR LOS PASOS PARA HACER LOS TABLEROS
+SEGUNDO EN PLAN DE SESION EN LA PESTAÑA INDICADORES, GENERAR LOS 2 INDICADORES SIGUIENDO EL CÓDIGO QUE ESTÁ AHI
+Pasos a seguir para hacer los Tableros
 
 El objetivo es generar los indicadores de avance de una sesión. Vamos a tomar como ejemplo la sesión “08-06”
 
